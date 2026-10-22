@@ -24,8 +24,8 @@ Aplicación de escritorio en Java para gestionar el catálogo de una biblioteca,
 
 ## Capturas
 
-![Pantalla de inicio](capturas/inicio.png)
-![Búsqueda de libros](capturas/buscar.png)
+![Pantalla de inicio](capturas/inicio.png.png)
+![Búsqueda de libros](capturas/buscar.png.png)
 
 ## Autor
 
